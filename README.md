@@ -1,10 +1,8 @@
 ![MasterHead](https://appetiser.com.au/wp-content/uploads/2019/04/Most-Loved-And-Hated-Programming-Languages.png)
 
 <h1 align="center">Hi 👋, I'm Anson Lai</h1>
-<h3 align="center">A passionate full-stack developer in US</h3>
+<p align="center"><b>A passionate full-stack developer in US</b></p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaojun-lai&label=Profile%20views&color=0e75b6&style=flat" alt="yaojun-lai" /> </p>
 
 - 💻 I’m currently working on **React, Docker, Server-side Authentication**
 
