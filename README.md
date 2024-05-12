@@ -6,7 +6,7 @@
 
 - 💻 I’m currently working on **React, Docker, Server-side Authentication**
 
-- 🔭 I’m actively seeking **a full-time role as a Software Development Engineer.**
+- 🔭 I’m currently **a Software Engineer at ExtraHop.**
 
 - 💬 Ask me about **Life in Texas and China**
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yaojun-lai/](https://www.linkedin.com/in/yaojun-lai/)
 
-- ⚡ Fun fact **Basketball, Lacrosse, Texas hold 'em**
+- ⚡ Fun fact **Basketball, Lacrosse, Texas hold 'em, Chinese Food** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
